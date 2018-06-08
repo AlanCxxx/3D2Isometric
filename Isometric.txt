@@ -1,9 +1,0 @@
-Here are two macros that import 3D CVS data to Isometric and then export the Isometric data back to 3D CSV.
-These macros are of intellectual interest (i.e. they may not be practical) so YMMV (don't blame me for bad things!).
-These are my original work but you are free the use as you please.
-
-Instructions for use import 3D data to Isometric:
-Copy the demo 3D CSV data and save it to your working directory.
-What is the data (its my version of the "Thing" from:
-    [url]http://www.airplanesandrockets.com/airplanes/thing-dec-1972-american-aircraft-modeler.htm[/url]
-[code]
